@@ -1,3 +1,5 @@
+from keep_alive import keep_alive
+keep_alive()
 import discord
 import os
 from openai import OpenAI
