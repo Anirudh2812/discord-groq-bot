@@ -59,7 +59,7 @@ async def ask(interaction: discord.Interaction, prompt: str):
         response = client_ai.chat.completions.create(
             model="llama3-8b-8192",
             messages=bot.chat_history[user_id],
-            temperature=0.7
+            temperature=1.2
         )
         reply = response.choices[0].message.content
 
