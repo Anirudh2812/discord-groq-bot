@@ -6,7 +6,7 @@ Tech stack
 2. openai  
 3. python-dotenv  
 4. flask  
-skip to
--[bot.py](#boy.py)
--[keep_alive.py](#keep_alive.py)
+skip to  
+-[bot.py](#boy.py)  
+-[keep_alive.py](#keep_alive.py)  
 
